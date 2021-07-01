@@ -27,7 +27,5 @@
   <a href = "mailto:contatodev.luizmiguel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-miguel-8485431b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/luiz-miguel808/luiz-miguel808/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
