@@ -1,7 +1,7 @@
 # Luiz Miguel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 #### Programador Front-end junior
 #### Moro em Curitiba-PR
-####  Tenho 16 anos
+#### Eu tenho 16 anos
  <div>
   <a href="https://github.com/luiz-miguel808">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-miguel808&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
